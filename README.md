@@ -3,7 +3,7 @@ Automated deauth tool using aireplay-ng that targets a specific device on an AP.
 
 # Dependecies
     - A wireless adapter that supports monitor mode (ex. Alfa AWUS036NHA)
-    - Aircrack-ng (```sudo apt install aircrack-ng```)
+    - Aircrack-ng (sudo apt install aircrack-ng)
 
 # Install
 ```
