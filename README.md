@@ -10,7 +10,6 @@ Automated deauth tool using aireplay-ng that targets a specific device on an AP.
 git clone https://github.com/mcgregol/auto-deauth
 cd auto-deauth
 chmod +x deauth.sh
-
 ```
 
 # Run
