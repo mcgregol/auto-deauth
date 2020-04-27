@@ -4,7 +4,7 @@ echo "Checking for aircrack..."
 
 sleep 3
 
-sudo apt install aircrack-ngaircrack
+sudo apt install aircrack-ng
 
 echo "Aircrack installed!"
 
@@ -16,7 +16,7 @@ echo "Adding script to bin..."
 
 sleep 3
 
-sudo mv deauth.sh /bin
+sudo mv deauth /bin
 
 echo "Done, now you can execute deauth from anywhere..."
 
@@ -30,6 +30,6 @@ cd ..
 
 sudo rm -r auto-deauth
 
-echo "Done!  Execute 'sudo bash deauth (interface) from anywhere..."
+echo "Done!  Execute 'sudo bash deauth (interface)' from anywhere..."
 
 sleep 3
