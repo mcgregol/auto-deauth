@@ -14,5 +14,4 @@ sudo bash install.sh (allows you to run from any directory)
 # Run
 ```
 sudo bash deauth.sh (your monitor interface)
-
 ```
