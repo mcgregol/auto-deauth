@@ -19,7 +19,7 @@ read -p "SSID channel number: " chan
 
 clear
 
-echo "Initiating target SSID scan"
+echo "Initiating target SSID scan, CTRL C to stop"
 
 sleep 3
 
